@@ -1,0 +1,6 @@
+.gemini/
+.agent/
+.vscode/
+task.md
+walkthrough.md
+*.log
